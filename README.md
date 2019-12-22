@@ -62,15 +62,15 @@ campus基于SpringBoot,目标是实现简易版学分制系统+mystu,现阶段�
 
 项目截图: 
 
-![1577017144194](C:\Users\Dragon\AppData\Roaming\Typora\typora-user-images\1577017144194.png)
+![image](https://github.com/dragonknightjaja/campus/blob/master/src/main/resources/static/img/shot1.png)
 
-![1577017239804](C:\Users\Dragon\AppData\Roaming\Typora\typora-user-images\1577017239804.png)
+![image](https://github.com/dragonknightjaja/campus/blob/master/src/main/resources/static/img/shot2.png)
 
-![1577017243249](C:\Users\Dragon\AppData\Roaming\Typora\typora-user-images\1577017243249.png)
+![image](https://github.com/dragonknightjaja/campus/blob/master/src/main/resources/static/img/shot3.png)
 
-![1577017479167](C:\Users\Dragon\AppData\Roaming\Typora\typora-user-images\1577017479167.png)
+![image](https://github.com/dragonknightjaja/campus/blob/master/src/main/resources/static/img/shot4.png)
 
-![1577017493206](C:\Users\Dragon\AppData\Roaming\Typora\typora-user-images\1577017493206.png)
+![image](https://github.com/dragonknightjaja/campus/blob/master/src/main/resources/static/img/shot5.png)
 
-![1577017506399](C:\Users\Dragon\AppData\Roaming\Typora\typora-user-images\1577017506399.png)
+![image](https://github.com/dragonknightjaja/campus/blob/master/src/main/resources/static/img/shot6.png)
 
