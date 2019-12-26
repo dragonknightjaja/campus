@@ -22,8 +22,7 @@ campus基于SpringBoot,目标是实现简易版学分制系统+mystu,现阶段�
 7.视频会议
 8.角色管理 
 9.成绩管理
-10.学生信息
-11.代码生成       
+10.学生信息      
         ★添加用户后，密码默认为123456    
         ★用户密码重置后，密码默认为123456      
         ★学院解散后，此学院用户自动设置为 未分配    
@@ -62,15 +61,15 @@ campus基于SpringBoot,目标是实现简易版学分制系统+mystu,现阶段�
 
 项目截图: 
 
-![1577017144194](C:\Users\Dragon\AppData\Roaming\Typora\typora-user-images\1577017144194.png)
+![image](https://github.com/dragonknightjaja/campus/blob/master/src/main/resources/static/img/shot1.png)
 
-![1577017239804](C:\Users\Dragon\AppData\Roaming\Typora\typora-user-images\1577017239804.png)
+![image](https://github.com/dragonknightjaja/campus/blob/master/src/main/resources/static/img/shot2.png)
 
-![1577017243249](C:\Users\Dragon\AppData\Roaming\Typora\typora-user-images\1577017243249.png)
+![image](https://github.com/dragonknightjaja/campus/blob/master/src/main/resources/static/img/shot3.png)
 
-![1577017479167](C:\Users\Dragon\AppData\Roaming\Typora\typora-user-images\1577017479167.png)
+![image](https://github.com/dragonknightjaja/campus/blob/master/src/main/resources/static/img/shot4.png)
 
-![1577017493206](C:\Users\Dragon\AppData\Roaming\Typora\typora-user-images\1577017493206.png)
+![image](https://github.com/dragonknightjaja/campus/blob/master/src/main/resources/static/img/shot5.png)
 
-![1577017506399](C:\Users\Dragon\AppData\Roaming\Typora\typora-user-images\1577017506399.png)
+![image](https://github.com/dragonknightjaja/campus/blob/master/src/main/resources/static/img/shot6.png)
 
