@@ -37,7 +37,7 @@ public class StudentController {
 		return service.getAllPatientJson(Integer.parseInt(page) , Integer.parseInt(rows));
 	}
 
-	@BizLog("添加病人信息")
+	@BizLog("添加学生信息")
 	@ResponseBody
 	@RequestMapping(value="/addpatient" , method={RequestMethod.POST})
 	public String addDept(HttpServletRequest request){
@@ -51,7 +51,7 @@ public class StudentController {
 		return service.addPatient(patientName, Integer.valueOf(patientage), patientavator, patientill);
 	}
 	
-	@BizLog("修改病人信息")
+	@BizLog("修改学生信息")
 	@ResponseBody
 	@RequestMapping(value="/setpatient" , method={RequestMethod.POST})
 	public String setDept(HttpServletRequest request){
@@ -63,7 +63,7 @@ public class StudentController {
 		return service.modifyPatient(patientid, patientname, Integer.valueOf(patientage),patientavator,patientill);
 	}
 
-	@BizLog("删除病人信息")
+	@BizLog("删除学生信息")
 	@ResponseBody
 	@RequestMapping(value="/deletepatient" , method={RequestMethod.POST})
 	public String deleteDept(HttpServletRequest request){

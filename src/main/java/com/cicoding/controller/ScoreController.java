@@ -33,7 +33,7 @@ public class ScoreController {
 		return service.getAllMedicineJson(Integer.parseInt(page) , Integer.parseInt(rows));
 	}
 
-	@BizLog("添加药品信息")
+	@BizLog("添加成绩信息")
 	@ResponseBody
 	@RequestMapping(value="/addmedicine" , method={RequestMethod.POST})
 	public String addMedicine(HttpServletRequest request){
@@ -46,7 +46,7 @@ public class ScoreController {
 		return service.addMedicine(medicineName, Integer.valueOf(medicineNumber), manufacturer);
 	}
 	
-	@BizLog("修改药品信息")
+	@BizLog("修改成绩信息")
 	@ResponseBody
 	@RequestMapping(value="/setmedicine" , method={RequestMethod.POST})
 	public String setMedicine(HttpServletRequest request){
@@ -57,7 +57,7 @@ public class ScoreController {
 		return service.modifyMedicine(medicineid, medicineName, Integer.valueOf(medicineprice), manufacturer);
 	}
 
-	@BizLog("删除药品信息")
+	@BizLog("删除成绩信息")
 	@ResponseBody
 	@RequestMapping(value="/deletemedicine" , method={RequestMethod.POST})
 	public String deleteMedicine(HttpServletRequest request){
